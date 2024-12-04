@@ -1,0 +1,74 @@
+@import url("reset.css");
+
+html {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.6;
+	background-color: #f9f9f9;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	line-height: 1;
+	text-transform: uppercase;
+	margin: 0 0 1.6rem;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.6;
+	margin: 0 0 1.6rem;
+}
+
+a {
+	color: #0056b3;
+	border-bottom: 2px solid transparent;
+	transition: all 0.5s ease-in-out;
+}
+
+a:hover {
+	color: #002348;
+	border-bottom: 2px solid #002348;
+}
+
+hr {
+	margin: 3.2rem 1.6rem;
+	color: #555555;
+	border-color: #555555;
+}
+
+/* Layout */
+
+.container {
+	padding: 0;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1000px;
+}
+
+/* Media Queries */
+
+@media (min-width: 699px) {
+
+	/* CSS HERE */
+
+}
+
+/* Desktop Media Query */
+@media (min-width: 999px) {
+
+	/* CSS HERE */
+
+}
