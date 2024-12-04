@@ -34,4 +34,3 @@ Please refer to `mockup.jpg` in the repository.
 ### Submitting Your Work
 
 After completing the task, be sure to commit your changes and push them back to your own forked repository and turn in the GitHub link in Google Classroom.
-# webdev-classproject-001
